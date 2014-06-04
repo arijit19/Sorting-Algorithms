@@ -7,3 +7,5 @@ Algorithms implemented :
 ->Selection sort
 
 ->Bubble sort
+
+->Insertion Sort
